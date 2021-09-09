@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 DB_HOST="database-1.calfq7nin234.ap-northeast-2.rds.amazonaws.com"
 DB_USER="admin"
-DB_PASS="11111111"
+DB_PASS="kk020402"
 DB_DATABASE="myflask"
 
 @app.route('/create_process', methods=['POST'])
